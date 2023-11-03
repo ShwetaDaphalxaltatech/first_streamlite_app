@@ -1,2 +1,2 @@
-Import streamlit
+import streamlit
 streamlit.title('hello shweta')
